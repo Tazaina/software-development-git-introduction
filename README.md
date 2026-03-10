@@ -6,3 +6,8 @@ Judul Repository : software-development-git-introduction
 Nama : Tahta Rahmatul Kahfi
 NPM : 2313020030
 Mata Kuliah : Software Development
+
+# Tools yang digunakan
+- Git
+- GitHub
+- Visual Studio Code
